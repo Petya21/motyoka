@@ -1,0 +1,43 @@
+#kek {
+    background-image: url('hatter.jpg');
+}
+
+#piros {
+    width: 938px;
+    height: 130px;
+    margin-left: 500px;
+}
+
+#zold {
+    background-image: url('fejlec.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+#sarga {
+    background-image: url('menukep.jpg');
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 700px;
+    text-align: center;
+    background-size: cover;
+    margin-left: 500px;
+}
+
+#lila {
+    width: 690px;
+    height: 700px;
+    background-image: url('tartalomkep.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+p {
+    color: red;
+}
+h1 {
+    color: red;
+}
